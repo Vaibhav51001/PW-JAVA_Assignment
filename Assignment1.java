@@ -41,6 +41,7 @@ public class Assignment1 {
         n2=temp;
         System.out.println("On Swapping of Two Number:-"+ " First One Is : "+n1+" Second One Is : "+ n2);
 
+        sc.close();
     }
     
 }
