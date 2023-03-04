@@ -12,15 +12,15 @@ public class Assignment2 {
         // Name: xyz, Roll number: xyz, Field of interest: xyz.
 
         System.out.println("Enter Full-Name, Roll number and Field of interest. ");
-        String f_name, l_name, f_intrest;
+        String f_name, l_name, f_interest;
         long r_no;
         f_name = sc.next();
         l_name = sc.next();
         r_no = sc.nextLong();
-        f_intrest = sc.nextLine();
+        f_interest = sc.nextLine();
         System.out.println("Name : "+f_name+" "+l_name);
         System.out.println("Roll Number = "+ r_no);
-        System.out.println("Field Of Intrest : "+ f_intrest); 
+        System.out.println("Field Of Interest : "+ f_interest); 
         
         // Q2 - Input two different string and print them in same line.
 
